@@ -1,4 +1,4 @@
-📋 O Dia a Dia de um QA: A Prática de Testes Manuais e Funcionais
+#📋 O Dia a Dia de um QA: A Prática de Testes Manuais e Funcionais:
 Bem-vindo ao repositório do desafio "O Dia a Dia de um QA", onde exploramos a prática de testes manuais e funcionais através de atividades que simulam o trabalho real de um Quality Assurance (QA).
 
 Este projeto contém:
@@ -20,8 +20,7 @@ text
 ├── 📂 casos-de-teste  
 │   ├── 📄 Casos_de_Teste_Step_by_Step.pdf  
 │   └── 📄 Casos_de_Teste_BDD.pdf  
-└── 📂 extras  
-    └── 📄 Consideracoes_Finais.md (opcional)  
+
 📌 Conteúdo Detalhado
 1️⃣ Plano de Fluxo de Trabalho e Ciclo de Vida do Bug
 Explicação detalhada do fluxo de trabalho de testes.
