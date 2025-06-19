@@ -18,9 +18,10 @@ Este projeto contém:
 ├── 📂 fluxo-de-trabalho-e-ciclo-de-bug  
 │   └── 📄 Plano_de_Fluxo_de_Trabalho_e_Ciclo_de_Bug.pdf  
 ├── 📂 user-stories  
-│   └── 📄 User_Stories_Desafio_QA.pdf  
+│   └── 📄 [#SWAG-6] Validação de Login e Senha - Credencias Válidas.pdf
+│   └── 📄 [SWAG-7] Validação  de Login e Senha - Credenciais Inválidas.pdf    
 ├── 📂 mind-map  
-│   └── 📄 Mind_Map_User_Story.png (ou .pdf)  
+│   └── 📄 Mind_Map_User_Story_#SWAG6.pdf 
 ├── 📂 casos-de-teste  
 │   ├── 📄 Casos_de_Teste_Step_by_Step.pdf  
 │   └── 📄 Casos_de_Teste_BDD.pdf   
