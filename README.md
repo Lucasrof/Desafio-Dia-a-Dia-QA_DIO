@@ -23,9 +23,7 @@ Este projeto contém:
 │   └── 📄 Mind_Map_User_Story.png (ou .pdf)  
 ├── 📂 casos-de-teste  
 │   ├── 📄 Casos_de_Teste_Step_by_Step.pdf  
-│   └── 📄 Casos_de_Teste_BDD.pdf  
-└── 📂 extras  
-    └── 📄 Consideracoes_Finais.md (opcional)  
+│   └── 📄 Casos_de_Teste_BDD.pdf   
 ```  
 
 ---
