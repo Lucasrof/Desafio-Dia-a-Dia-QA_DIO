@@ -51,12 +51,6 @@ Possíveis cenários
 
 2 casos de teste utilizando BDD (Behavior-Driven Development) no formato:
 
-gherkin
-Funcionalidade: [Nome]  
-  Cenário: [Descrição]  
-    Dado [condição inicial]  
-    Quando [ação]  
-    Então [resultado esperado]  
 🚀 Como Utilizar Este Repositório
 Clone o repositório:
 
